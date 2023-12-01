@@ -1,6 +1,4 @@
-# Software-Project
-
-Task Manager 
+# Task Manager 
 
 1. Task Creation and Management: Allow users to create tasks with titles, descriptions, due dates, priorities, and categories. Enable them to edit, delete, and mark tasks as complete.
 
